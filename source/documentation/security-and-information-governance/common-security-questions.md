@@ -46,7 +46,6 @@ All platform code is peer reviewed before being deployed.
 
 The AP engineering team undertake regular scheduled maintenance to update dependencies and patch CVEs. Our GitHub project board is open to anyone with an MOJ GitHub license if you wish to view these tickets.
 
-
 ## Amazon Bedrock 
 
 For a non-technical overview of Bedrock security, please refer to [this AWS policy](https://aws.amazon.com/bedrock/security-compliance/).
